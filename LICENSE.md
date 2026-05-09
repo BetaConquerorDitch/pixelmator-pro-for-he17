@@ -1,4 +1,4 @@
-
+custom Panel for Pixelmator Pro for macOS - cloud sync and content-aware fill offers the most advanced Pixelmator Pro for macOS panel, with cloud sync and content-aware fill.
 
 
 
